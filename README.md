@@ -1,6 +1,6 @@
 This repo has several implementation of ml research papers .
 
-all these implementations are divided into categories 
+All these implementations are divided into categories 
     > NLP
     > Computer Vision
     > Reinforcement learning 
