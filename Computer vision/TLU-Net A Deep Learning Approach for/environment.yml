@@ -1,0 +1,34 @@
+name: sever
+
+channels:
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pytest
+  - flake8
+  - rope
+  - click
+  - jupyter
+  - pyyaml
+  - pytorch=1.2.0
+  - torchvision
+  - cudatoolkit=10.0
+  - tensorflow=1.3.0
+  - tensorboard=1.14.0
+  - future
+  - tqdm
+  - kaggle
+  - scikit-learn
+  - opencv
+  - pip
+  - pip:
+    - albumentations==0.3.3
+    - efficientnet_pytorch
+    # segmentation-models-pytorch
+    - -e .
