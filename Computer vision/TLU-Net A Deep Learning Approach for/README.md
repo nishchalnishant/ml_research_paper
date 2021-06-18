@@ -86,5 +86,5 @@ TLU-Net: A Deep Learning Approach for Automatic Steel Surface Defect Detection
 - Evaluation metrics --
     - We evaluate the steel defect classification performance using multi-label classification accuracy (MLA) and the average area under receiver operating curve (AUC) across 4 classes . 
 
-- Results and discussion
+
   
